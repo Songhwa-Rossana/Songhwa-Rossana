@@ -1,4 +1,4 @@
-粤|ENG|한/:guitar::musical_keyboard: **Musician**/♟️**Chess**/💻**CS + ML**/📐**Math**
+粤|ENG|한/🎸🎹**Musician**/♟️**Chess**/💻**CS + ML**/📐**Math**
 
 ***Pray for the peace of Jerusalem: "May those who love you be secure'"***
 ***- Psalm 122:6***
