@@ -12,6 +12,7 @@ SSD: Kingston NV2 1TB + Crucial MX 500 256 GB\
 HDD: Seagate 500 GB 7200 RPM &nbsp\
 PSU: Coolermaster MWE 550 White 230V - V2\
 Motherboard: MSI MAG B660M BAZOOKA &nbsp\
+\
 Peripherals:\
 Keyboard: HyperX Alloy Origins 60\
 Mouse: Logitech Pro X Superlight\
