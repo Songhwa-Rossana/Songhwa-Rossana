@@ -2,7 +2,7 @@
 \
 ***Pray for the peace of Jerusalem: "May those who love you be secure'"***
 ***- Psalm 122:6***
-\\
+\
 PC Spec:\
 CPU: Intel Core i5-12600KF\
 GPU: NVIDIA Geforce GTX 1060 3GB\
