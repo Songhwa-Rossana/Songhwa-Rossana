@@ -1,4 +1,4 @@
-:flag_gb::flag_hk::flag_tw::cross:/:guitar::musical_keyboard: **Musician**/:chess_pawn: **Chess**/:computer: **CS + ML**/:triangular_ruler:**Math**
+粤|ENG|한/:guitar::musical_keyboard: **Musician**/:chess_pawn: **Chess**/:computer: **CS + ML**/:triangular_ruler:**Math**
 Pray for the peace of Jerusalem: "May those who love you be secure'"
 - Psalm 122:6 :blue_heart::flag_il:
 
