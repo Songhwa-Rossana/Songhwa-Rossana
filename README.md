@@ -1,6 +1,7 @@
-粤|ENG|한/:guitar::musical_keyboard: **Musician**/:chess_pawn: **Chess**/:computer: **CS + ML**/:triangular_ruler:**Math**
-Pray for the peace of Jerusalem: "May those who love you be secure'"
-- Psalm 122:6 :blue_heart::flag_il:
+粤|ENG|한/:guitar::musical_keyboard: **Musician**/♟️**Chess**/💻**CS + ML**/📐**Math**
+
+***Pray for the peace of Jerusalem: "May those who love you be secure'"***
+***- Psalm 122:6***
 
 PC Spec:
 CPU: Intel Core i5-12600KF
