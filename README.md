@@ -7,7 +7,7 @@
 \
 PC Spec:\
 CPU: Intel Core i5-12600KF\
-GPU: NVIDIA Geforce GTX 1060 3GB\
+GPU: NVIDIA GeForce GTX 1060 3GB\
 RAM: Kingston FURY 16GB(8G*2) DDR4 3733\
 SSD: Kingston NV2 1TB + Crucial MX 500 256 GB\
 HDD: Seagate 500 GB 7200 RPM\
