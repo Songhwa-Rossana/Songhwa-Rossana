@@ -10,7 +10,7 @@ CPU: Intel Core i5-12600KF\
 GPU: NVIDIA GeForce GTX 1060 3GB\
 RAM: Kingston FURY 16GB(8G*2) DDR4 3733\
 SSD: Kingston NV2 1TB + Crucial BX500 240 GB\
-HDD: Seagate 500 GB 7200 RPM\
+HDD: Seagate Barracuda St500dm002 500 GB - 7200 RPM\
 PSU: Coolermaster MWE 550 White 230V - V2\
 Motherboard: MSI MAG B660M BAZOOKA\
 \
