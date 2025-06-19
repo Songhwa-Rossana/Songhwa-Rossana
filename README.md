@@ -11,7 +11,7 @@ GPU: NVIDIA GeForce GTX 1060 3GB\
 RAM: Kingston FURY 16GB(8G*2) DDR4 3733\
 SSD: Kingston NV2 1TB + Crucial BX500 240 GB\
 HDD: Seagate Barracuda St500dm002 500 GB - 7200 RPM\
-PSU: Coolermaster MWE 550 White 230V - V2\
+PSU: Cooler Master Mwe V2 550w 80 Plus Bronze Power Supply MPE-5501-ACABW-B\
 Motherboard: MSI MAG B660M BAZOOKA\
 \
 Peripherals:\
