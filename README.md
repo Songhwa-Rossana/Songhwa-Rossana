@@ -17,5 +17,5 @@ Motherboard: MSI MAG B660M BAZOOKA\
 Peripherals:\
 Keyboard: HyperX Alloy Origins 60\
 Mouse: Logitech Pro X Superlight\
-Headset: HyperX Cloud Earbuds\
+Earphones: Sennheiser CX 80S\
 Monitor: Acer Nitro QG240Y P3
