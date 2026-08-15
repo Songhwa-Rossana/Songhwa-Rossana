@@ -8,10 +8,10 @@
 PC Spec:\
 CPU: Intel Core i5-12600KF\
 GPU: MSI GeForce RTX™ 5060 8G VENTUS 2X OC WHITE\
-RAM: Kingston FURY 16GB(8G*2) DDR4 3733\
+RAM: Kingston FURY 32GB(8G*4) DDR4 3733\
 SSD: Kingston NV2 1TB + Crucial BX500 240 GB\
 HDD: Seagate Barracuda St500dm002 500 GB - 7200 RPM\
-PSU: Thermalright KG-650\
+PSU: Thermalright KG-650 650W\
 Motherboard: MSI MAG B660M BAZOOKA\
 \
 Peripherals:\
