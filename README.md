@@ -12,10 +12,10 @@ RAM: Kingston FURY 32GB(8G*4) DDR4 3733\
 SSD: Kingston NV2 1TB + Crucial BX500 240 GB\
 HDD: Western Digital WD20EZRZ 2TB BLUE\
 PSU: Thermalright KG-650 650W\
-Motherboard: MSI MAG B660M BAZOOKA\
+Motherboard: MSI PRO B760M-P\
 \
 Peripherals:\
 Keyboard: HyperX Alloy Origins 60\
 Mouse: Logitech G Pro X Superlight\
 Earphones: Sennheiser CX 80S\
-Monitor: Acer Nitro QG240Y P3
+Monitor: acer Nitro KG242YX1
